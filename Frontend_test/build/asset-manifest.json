@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TestEnsolvers/static/css/main.0ccc60fd.css",
+    "main.js": "/TestEnsolvers/static/js/main.3c60e147.js",
+    "index.html": "/TestEnsolvers/index.html",
+    "main.0ccc60fd.css.map": "/TestEnsolvers/static/css/main.0ccc60fd.css.map",
+    "main.3c60e147.js.map": "/TestEnsolvers/static/js/main.3c60e147.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ccc60fd.css",
+    "static/js/main.3c60e147.js"
+  ]
+}
